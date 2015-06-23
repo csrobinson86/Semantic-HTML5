@@ -1,4 +1,4 @@
-# Semantic-HTML5
+# Semantic HTML5
 
 * Building a Proper Semantic HTML5 Web Page
 
